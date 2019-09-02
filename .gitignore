@@ -60,5 +60,8 @@ typings/
 # next.js build output
 .next
 
+# webpack dist
+/dist/main.js
+
 # JetBrains IDE .idea
 .idea/
