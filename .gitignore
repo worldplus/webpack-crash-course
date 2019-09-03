@@ -61,7 +61,7 @@ typings/
 .next
 
 # webpack dist
-/dist/main.js
+/dist
 
 # JetBrains IDE .idea
 .idea/
